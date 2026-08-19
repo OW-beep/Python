@@ -1,0 +1,12 @@
+{
+  "name": "nexiary-hatena-export",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nexiary記事をはてなブログへ自動投稿するためのキット（AtomPub API使用）",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "post": "node scripts/post-to-hatena.js"
+  }
+}

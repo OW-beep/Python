@@ -1,0 +1,1350 @@
+[
+  {
+    "slug": "chatgpt-plus-guide",
+    "title": "ChatGPT Plusとは？料金・無料版との違い・Proとの違いを徹底比較【2026年版】",
+    "description": "ChatGPT Plusの料金、無料版・Proとの違い、課金するメリット・デメリットを解説。結局どのプランを選ぶべきか、利用頻度別に判断基準をまとめました。",
+    "date": "2026-07-10",
+    "category": "ai",
+    "categoryLabel": "AI",
+    "tags": [
+      "ChatGPT",
+      "ChatGPT Plus",
+      "ChatGPT Pro",
+      "AI",
+      "在宅ワーク",
+      "料金比較"
+    ],
+    "htmlFile": "posts/chatgpt-plus-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/chatgpt-plus-guide"
+  },
+  {
+    "slug": "gaming-controller-guide",
+    "title": "コントローラーで親指・手首が痛い人へ｜負担を減らす選び方とおすすめの1台",
+    "description": "コントローラーで手や指の腱鞘炎・痛みが気になる人向けに、負担を減らす選び方と、実際に試した軽量・マクロ対応コントローラーのレビューをまとめました。",
+    "date": "2026-07-13",
+    "category": "game",
+    "categoryLabel": "ゲーム",
+    "tags": [
+      "コントローラー",
+      "周辺機器",
+      "ゲーミング環境",
+      "Nintendo Switch"
+    ],
+    "htmlFile": "posts/gaming-controller-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/gaming-controller-guide"
+  },
+  {
+    "slug": "wireless-earphone-checklist",
+    "title": "イヤホンが耳に合わないのは製品のせいじゃない？耳道の個人差とフィット感を検証",
+    "description": "長時間つけていると痛くなる、耳から落ちるといった悩みがある人向けに、ワイヤレスイヤホン選びのチェックポイントをまとめました。",
+    "date": "2026-07-15",
+    "category": "gadget",
+    "categoryLabel": "ガジェット",
+    "tags": [
+      "イヤホン",
+      "ガジェット",
+      "ゲーミング環境"
+    ],
+    "htmlFile": "posts/wireless-earphone-checklist.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/wireless-earphone-checklist"
+  },
+  {
+    "slug": "aiarty-image-enhancer-guide",
+    "title": "写真を拡大すると粗くなるのはなぜ？AI超解像で画質はどこまで戻るか検証",
+    "description": "画像を拡大すると輪郭がぼやける理由を解説しながら、AIで画像を高画質化する「Aiarty Image Enhancer」を紹介します。",
+    "date": "2026-07-16",
+    "category": "ai",
+    "categoryLabel": "AI",
+    "tags": [
+      "画像高画質化",
+      "Aiarty",
+      "AIツール",
+      "在宅ワーク"
+    ],
+    "htmlFile": "posts/aiarty-image-enhancer-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/aiarty-image-enhancer-guide"
+  },
+  {
+    "slug": "colone-online-gacha-guide",
+    "title": "大人のガチャガチャ、自宅で楽しめる時代に｜オンラインガチャ「colone」とは",
+    "description": "ガチャガチャの心理的な仕組みを解説しながら、自宅でカプセルトイが楽しめるオンラインガチャサービス「colone」を紹介します。",
+    "date": "2026-07-16",
+    "category": "webservice",
+    "categoryLabel": "Webサービス",
+    "tags": [
+      "ガチャガチャ",
+      "colone",
+      "ホビー",
+      "暮らしの困りごと"
+    ],
+    "htmlFile": "posts/colone-online-gacha-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/colone-online-gacha-guide"
+  },
+  {
+    "slug": "edifier-neobuds-pro2-review",
+    "title": "Edifier NeoBuds Pro 2レビュー｜1万円台で買える高性能ANCイヤホン",
+    "description": "通勤中の騒音ストレスとノイズキャンセリングの仕組みを解説しながら、Edifier NeoBuds Pro 2の特徴を紹介します。",
+    "date": "2026-07-16",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "イヤホン",
+      "ANC",
+      "Edifier",
+      "ゲーミング環境"
+    ],
+    "htmlFile": "posts/edifier-neobuds-pro2-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/edifier-neobuds-pro2-review"
+  },
+  {
+    "slug": "focus-improvement-methods-ranking",
+    "title": "集中力が続かないのは意志が弱いせいじゃない？科学的に効果があるとされる習慣5選",
+    "description": "在宅作業中に通知やスマホで集中が途切れがちな人向けに、道具を買わずに今日から試せる集中力アップの習慣をランキング形式で紹介します。",
+    "date": "2026-07-16",
+    "category": "ranking",
+    "categoryLabel": "比較・ランキング",
+    "tags": [
+      "集中力",
+      "在宅ワーク",
+      "習慣"
+    ],
+    "htmlFile": "posts/focus-improvement-methods-ranking.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/focus-improvement-methods-ranking"
+  },
+  {
+    "slug": "hello-nexiary",
+    "title": "Nexiaryをはじめました",
+    "description": "AI・ゲーム・ガジェット・Webサービスの発見を毎日ログしていくメディア、Nexiaryについて。",
+    "date": "2026-07-16",
+    "category": "webservice",
+    "categoryLabel": "Webサービス",
+    "tags": [
+      "お知らせ"
+    ],
+    "htmlFile": "posts/hello-nexiary.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/hello-nexiary"
+  },
+  {
+    "slug": "karigo-virtual-office-guide",
+    "title": "バーチャルオフィスで自宅住所を公開しない方法｜法人登記のリスクとKarigoの特徴",
+    "description": "法人登記や開業届で自宅住所を公開したくない個人事業主・副業ワーカー向けに、バーチャルオフィスの仕組みとリスク、老舗サービス「Karigo」の特徴をまとめました。",
+    "date": "2026-07-16",
+    "category": "webservice",
+    "categoryLabel": "Webサービス",
+    "tags": [
+      "バーチャルオフィス",
+      "Karigo",
+      "起業",
+      "在宅ワーク"
+    ],
+    "htmlFile": "posts/karigo-virtual-office-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/karigo-virtual-office-guide"
+  },
+  {
+    "slug": "mixhost-wordpress-server-guide",
+    "title": "表示速度1秒の差が離脱率を左右する？Googleのデータとサーバー選びの関係",
+    "description": "ページの表示速度が離脱率に与える影響を解説しながら、WordPressに強い高速レンタルサーバー「mixhost」を紹介します。",
+    "date": "2026-07-16",
+    "category": "webservice",
+    "categoryLabel": "Webサービス",
+    "tags": [
+      "レンタルサーバー",
+      "mixhost",
+      "WordPress",
+      "在宅ワーク"
+    ],
+    "htmlFile": "posts/mixhost-wordpress-server-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/mixhost-wordpress-server-guide"
+  },
+  {
+    "slug": "muumuu-domain-guide",
+    "title": "ブログを本気で育てるなら独自ドメイン｜ムームードメインで最初の一歩を",
+    "description": "独自ドメインを持つメリットと選び方を解説しながら、GMOペパボの「ムームードメイン」を紹介します。",
+    "date": "2026-07-16",
+    "category": "webservice",
+    "categoryLabel": "Webサービス",
+    "tags": [
+      "ドメイン",
+      "ムームードメイン",
+      "ブログ運営",
+      "在宅ワーク"
+    ],
+    "htmlFile": "posts/muumuu-domain-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/muumuu-domain-guide"
+  },
+  {
+    "slug": "photo-backup-organize-guide",
+    "title": "スマホの写真が1万枚超え…もう探せない人のための整理・バックアップ入門",
+    "description": "写真が増えすぎて目的の1枚が見つからない人向けに、整理のコツと3-2-1バックアップルールの基本を解説します。",
+    "date": "2026-07-16",
+    "category": "howto",
+    "categoryLabel": "使い方",
+    "tags": [
+      "写真整理",
+      "バックアップ",
+      "スマホ",
+      "暮らしの困りごと"
+    ],
+    "htmlFile": "posts/photo-backup-organize-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/photo-backup-organize-guide"
+  },
+  {
+    "slug": "pixio-gaming-monitor-guide",
+    "title": "ゲーミングモニターは黒くて無骨？Pixioのカラフルモデルが人気の理由",
+    "description": "パネルの種類や応答速度の基礎を解説しながら、部屋に馴染むカラフルなゲーミングモニター「Pixio」を紹介します。",
+    "date": "2026-07-16",
+    "category": "gadget",
+    "categoryLabel": "ガジェット",
+    "tags": [
+      "ゲーミングモニター",
+      "Pixio",
+      "ゲーミング環境"
+    ],
+    "htmlFile": "posts/pixio-gaming-monitor-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/pixio-gaming-monitor-guide"
+  },
+  {
+    "slug": "plaud-ai-voice-recorder-guide",
+    "title": "議事録作成に時間を取られる本当の理由｜AIボイスレコーダーで検証",
+    "description": "話を聞きながらメモを取ることの負担を解説しながら、録音・文字起こし・要約を自動化するAIボイスレコーダー「Plaud」を紹介します。",
+    "date": "2026-07-16",
+    "category": "gadget",
+    "categoryLabel": "ガジェット",
+    "tags": [
+      "ボイスレコーダー",
+      "Plaud",
+      "AIツール",
+      "在宅ワーク"
+    ],
+    "htmlFile": "posts/plaud-ai-voice-recorder-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/plaud-ai-voice-recorder-guide"
+  },
+  {
+    "slug": "ren-sim-rental-sim-guide",
+    "title": "格安SIMが混雑時に遅くなるのはなぜ｜レンタルSIMの回線方式を比較",
+    "description": "格安SIMの速度が不安定になる仕組みを解説しながら、キャリア回線を使ったレンタルSIM「REN SIM」を紹介します。",
+    "date": "2026-07-16",
+    "category": "webservice",
+    "categoryLabel": "Webサービス",
+    "tags": [
+      "レンタルSIM",
+      "REN SIM",
+      "モバイル通信",
+      "在宅ワーク"
+    ],
+    "htmlFile": "posts/ren-sim-rental-sim-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/ren-sim-rental-sim-guide"
+  },
+  {
+    "slug": "webroot-antivirus-for-gamer-guide",
+    "title": "セキュリティソフトでゲームが重くなる仕組み｜クラウド型なら解決できるか検証",
+    "description": "アンチウイルスソフトが重くなる仕組みを解説しながら、ゲーマー向けの軽量セキュリティソフト「WEBROOT アンチウイルス for Gamer」を紹介します。",
+    "date": "2026-07-16",
+    "category": "game",
+    "categoryLabel": "ゲーム",
+    "tags": [
+      "アンチウイルス",
+      "WEBROOT",
+      "PCゲーム",
+      "ゲーミング環境"
+    ],
+    "htmlFile": "posts/webroot-antivirus-for-gamer-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/webroot-antivirus-for-gamer-guide"
+  },
+  {
+    "slug": "wfh-shoulder-stiffness-posture",
+    "title": "在宅勤務で肩こりが悪化するのは環境のせい？厚労省ガイドラインで机まわりを見直す",
+    "description": "在宅勤務になってから肩や首のこりがひどくなった人向けに、厚生労働省のガイドラインをもとにした作業環境の見直し方と、実際に使ったランバーサポートクッションのレビューを紹介します。",
+    "date": "2026-07-16",
+    "category": "lifehack",
+    "categoryLabel": "生活便利グッズ",
+    "tags": [
+      "在宅ワーク",
+      "肩こり",
+      "姿勢",
+      "ランバーサポート"
+    ],
+    "htmlFile": "posts/wfh-shoulder-stiffness-posture.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/wfh-shoulder-stiffness-posture"
+  },
+  {
+    "slug": "xppen-drawing-tablet-guide",
+    "title": "板タブの価格差は何が違う？WacomとXP-PENの筆圧スペックを比較",
+    "description": "紙とデジタルの違い、板タブの仕組み、筆圧レベルの意味を解説しながら、これから始める人向けにXP-PENを紹介します。",
+    "date": "2026-07-16",
+    "category": "gadget",
+    "categoryLabel": "ガジェット",
+    "tags": [
+      "ペンタブレット",
+      "イラスト",
+      "XP-PEN",
+      "在宅ワーク"
+    ],
+    "htmlFile": "posts/xppen-drawing-tablet-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/xppen-drawing-tablet-guide"
+  },
+  {
+    "slug": "coverary-leather-phone-case-guide",
+    "title": "スマホケースが量産品ばかりになる理由｜32色の本革ケースで個性を出す",
+    "description": "既製品のスマホケースが選びにくい理由を解説しながら、全32色・ほぼ全機種対応の本革スマホケース「COVERARY」を紹介します。",
+    "date": "2026-07-17",
+    "category": "gadget",
+    "categoryLabel": "ガジェット",
+    "tags": [
+      "スマホケース",
+      "本革",
+      "COVERARY",
+      "暮らしの困りごと"
+    ],
+    "htmlFile": "posts/coverary-leather-phone-case-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/coverary-leather-phone-case-guide"
+  },
+  {
+    "slug": "firebird-iphone-data-recovery-guide",
+    "title": "iPhoneが水没・電源つかない…写真やLINEは諦めるしかない？基板修理で復旧できる可能性",
+    "description": "他店で修理不可と言われたiPhoneのデータを復旧する仕組みを解説しながら、基板修理専門サービス「FIREBIRD」を紹介します。",
+    "date": "2026-07-17",
+    "category": "gadget",
+    "categoryLabel": "ガジェット",
+    "tags": [
+      "iPhone修理",
+      "データ復旧",
+      "FIREBIRD",
+      "暮らしの困りごと"
+    ],
+    "htmlFile": "posts/firebird-iphone-data-recovery-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/firebird-iphone-data-recovery-guide"
+  },
+  {
+    "slug": "flexispot-standing-desk-guide",
+    "title": "座りっぱなしは本当に体に悪い？WHOも指摘する座位行動とデスク環境",
+    "description": "座りっぱなしが健康に与える影響を解説しながら、電動昇降スタンディングデスク・モニターアーム専門ブランド「FlexiSpot」を紹介します。",
+    "date": "2026-07-17",
+    "category": "gadget",
+    "categoryLabel": "ガジェット",
+    "tags": [
+      "スタンディングデスク",
+      "FlexiSpot",
+      "在宅ワーク"
+    ],
+    "htmlFile": "posts/flexispot-standing-desk-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/flexispot-standing-desk-guide"
+  },
+  {
+    "slug": "freezer-rental-guide",
+    "title": "冷凍庫はなぜすぐ満杯になるのか｜買い替えずに解決する方法",
+    "description": "冷凍庫の容量不足が食品ロスにつながる理由を解説しながら、法人・家庭どちらも利用できる冷凍庫レンタルサービスを紹介します。",
+    "date": "2026-07-17",
+    "category": "lifehack",
+    "categoryLabel": "生活便利グッズ",
+    "tags": [
+      "冷凍庫レンタル",
+      "サークランド",
+      "食品ロス",
+      "暮らしの困りごと"
+    ],
+    "htmlFile": "posts/freezer-rental-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/freezer-rental-guide"
+  },
+  {
+    "slug": "life-pocket-iot-wallet-guide",
+    "title": "置き忘れはなぜ起きるのか｜記憶の仕組みと紛失防止タグの効果",
+    "description": "紛失防止タグの通知の仕組みを解説しながら、IoTレザーブランド「LIFE POCKET」の紛失防止財布を紹介します。",
+    "date": "2026-07-17",
+    "category": "gadget",
+    "categoryLabel": "ガジェット",
+    "tags": [
+      "財布",
+      "紛失防止タグ",
+      "LIFE POCKET",
+      "暮らしの困りごと"
+    ],
+    "htmlFile": "posts/life-pocket-iot-wallet-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/life-pocket-iot-wallet-guide"
+  },
+  {
+    "slug": "pc-next-refurbished-pc-guide",
+    "title": "新品と中古の間にある「再生パソコン」とは？中古との違いを検証",
+    "description": "再生パソコンと一般的な中古パソコンの違いを解説しながら、関西電力グループが運営する「PC next」を紹介します。",
+    "date": "2026-07-17",
+    "category": "gadget",
+    "categoryLabel": "ガジェット",
+    "tags": [
+      "再生パソコン",
+      "PC next",
+      "中古PC",
+      "在宅ワーク"
+    ],
+    "htmlFile": "posts/pc-next-refurbished-pc-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/pc-next-refurbished-pc-guide"
+  },
+  {
+    "slug": "daily-life-small-troubles-guide",
+    "title": "地味だけど地味に困る、暮らしの小さな悩みを解決するアイテムまとめ",
+    "description": "紛失・データ消失・収納不足など、日常のちょっとした困りごとを解決するグッズやサービスをまとめて紹介します。",
+    "date": "2026-07-18",
+    "category": "lifehack",
+    "categoryLabel": "生活便利グッズ",
+    "tags": [
+      "暮らしの困りごと"
+    ],
+    "htmlFile": "posts/daily-life-small-troubles-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/daily-life-small-troubles-guide"
+  },
+  {
+    "slug": "gaming-environment-complete-guide",
+    "title": "快適なゲーミング環境の作り方完全ガイド｜見た目・音・防御を整える5選",
+    "description": "ゲームを快適に楽しむための周辺機器とソフトを、モニター・コントローラー・音・セキュリティの観点でまとめました。",
+    "date": "2026-07-18",
+    "category": "game",
+    "categoryLabel": "ゲーム",
+    "tags": [
+      "ゲーミング環境",
+      "周辺機器"
+    ],
+    "htmlFile": "posts/gaming-environment-complete-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/gaming-environment-complete-guide"
+  },
+  {
+    "slug": "laserpecker-portable-laser-engraver-guide",
+    "title": "既製品にはない特別感を出す方法｜家庭用レーザー彫刻機という選択肢",
+    "description": "レーザー彫刻の仕組みを解説しながら、家庭でも使えるポータブルレーザー彫刻機「LaserPecker」を紹介します。",
+    "date": "2026-07-18",
+    "category": "gadget",
+    "categoryLabel": "ガジェット",
+    "tags": [
+      "レーザー彫刻",
+      "LaserPecker",
+      "ハンドメイド"
+    ],
+    "htmlFile": "posts/laserpecker-portable-laser-engraver-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/laserpecker-portable-laser-engraver-guide"
+  },
+  {
+    "slug": "lolipop-for-gamers-server-guide",
+    "title": "自宅PCでマイクラサーバーを立てると起きる問題｜レンタルサーバーとの違いを整理",
+    "description": "自宅PCでゲームサーバーを立てる場合の課題を解説しながら、初心者でも3分で構築できるゲーム専用レンタルサーバー「ロリポップ！for Gamers」を紹介します。",
+    "date": "2026-07-18",
+    "category": "game",
+    "categoryLabel": "ゲーム",
+    "tags": [
+      "ゲームサーバー",
+      "ロリポップ for Gamers",
+      "Minecraft",
+      "ゲーミング環境"
+    ],
+    "htmlFile": "posts/lolipop-for-gamers-server-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/lolipop-for-gamers-server-guide"
+  },
+  {
+    "slug": "wfh-toolkit-complete-guide",
+    "title": "在宅ワーク・副業ブログの環境づくり完全ガイド｜必要な道具とサービス12選",
+    "description": "在宅ワークや副業ブログを快適に続けるために必要な、ガジェット・AIツール・Webサービスを体の負担・作業効率・情報発信の3つの観点でまとめました。",
+    "date": "2026-07-18",
+    "category": "lifehack",
+    "categoryLabel": "生活便利グッズ",
+    "tags": [
+      "在宅ワーク",
+      "副業",
+      "ブログ運営"
+    ],
+    "htmlFile": "posts/wfh-toolkit-complete-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/wfh-toolkit-complete-guide"
+  },
+  {
+    "slug": "yanoman-jigsaw-puzzle-guide",
+    "title": "スマホを見るだけの休日、なぜ疲れが取れない？「フロー状態」とパズルの関係",
+    "description": "没頭できる趣味が集中力やリラックスに役立つ理由を解説しながら、日本にジグソーパズルを広めた「やのまん」の通販を紹介します。",
+    "date": "2026-07-18",
+    "category": "game",
+    "categoryLabel": "ゲーム",
+    "tags": [
+      "ジグソーパズル",
+      "やのまん",
+      "趣味"
+    ],
+    "htmlFile": "posts/yanoman-jigsaw-puzzle-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/yanoman-jigsaw-puzzle-guide"
+  },
+  {
+    "slug": "d-value-pass-guide",
+    "title": "コンビニの出費、小さな特典の積み重ねで減らせるか｜dバリューパスを検証",
+    "description": "小さな特典が習慣化につながる仕組みを解説しながら、コンビニクーポンや150種類のコンテンツが使い放題になる「dバリューパス」を紹介します。",
+    "date": "2026-07-19",
+    "category": "webservice",
+    "categoryLabel": "Webサービス",
+    "tags": [
+      "dバリューパス",
+      "コンビニクーポン",
+      "サブスク"
+    ],
+    "htmlFile": "posts/d-value-pass-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/d-value-pass-guide"
+  },
+  {
+    "slug": "fujico-photocatalyst-air-purifier-guide",
+    "title": "空気清浄機なのにニオイが消えない理由｜フィルター式と光触媒式を比較",
+    "description": "一般的な空気清浄機とフィルター交換の悩みを解説しながら、光触媒でニオイと菌を分解する「光除菌」空気清浄機を紹介します。",
+    "date": "2026-07-19",
+    "category": "gadget",
+    "categoryLabel": "ガジェット",
+    "tags": [
+      "空気清浄機",
+      "光除菌",
+      "フジコー"
+    ],
+    "htmlFile": "posts/fujico-photocatalyst-air-purifier-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/fujico-photocatalyst-air-purifier-guide"
+  },
+  {
+    "slug": "parallels-desktop-mac-windows-guide",
+    "title": "MacでWindows専用ソフトが必要になったら｜仮想化という第三の選択肢",
+    "description": "仮想化の仕組みを解説しながら、再起動なしでMac上にWindows環境を作れる「Parallels Desktop」を紹介します。",
+    "date": "2026-07-19",
+    "category": "webservice",
+    "categoryLabel": "Webサービス",
+    "tags": [
+      "Parallels",
+      "Mac",
+      "仮想化ソフト"
+    ],
+    "htmlFile": "posts/parallels-desktop-mac-windows-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/parallels-desktop-mac-windows-guide"
+  },
+  {
+    "slug": "retty-gourmet-service-guide",
+    "title": "口コミサイトの評価、どこまで信じていい？匿名と実名の信頼性を比較",
+    "description": "匿名口コミの信頼性の課題を解説しながら、実名制で信頼性の高い口コミを集めるグルメサービス「Retty」を紹介します。",
+    "date": "2026-07-19",
+    "category": "lifehack",
+    "categoryLabel": "生活便利グッズ",
+    "tags": [
+      "Retty",
+      "グルメサービス",
+      "口コミ"
+    ],
+    "htmlFile": "posts/retty-gourmet-service-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/retty-gourmet-service-guide"
+  },
+  {
+    "slug": "xppen-drawing-tablet-review",
+    "title": "XP-PENの液タブ、実際に1週間描いてみて感じたこと",
+    "description": "デジタルイラストを始めるにあたってXP-PENの板タブ・液タブを実際に使ってみた感想と、購入前にチェックしておきたいポイントをレビューします。",
+    "date": "2026-07-19",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "XP-PEN",
+      "ペンタブレット",
+      "イラスト",
+      "レビュー"
+    ],
+    "htmlFile": "posts/xppen-drawing-tablet-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/xppen-drawing-tablet-review"
+  },
+  {
+    "slug": "ai-transcription-technology-plaud-guide",
+    "title": "取材・インタビューの文字起こし、AIはどこまで任せられるのか",
+    "description": "取材やインタビューの音声を自分でまとめる負担を解説しながら、AIによる文字起こし・要約技術と、それを活用したAIボイスレコーダー「Plaud」を紹介します。",
+    "date": "2026-07-20",
+    "category": "ai",
+    "categoryLabel": "AI",
+    "tags": [
+      "AI",
+      "文字起こし",
+      "Plaud",
+      "取材"
+    ],
+    "htmlFile": "posts/ai-transcription-technology-plaud-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/ai-transcription-technology-plaud-guide"
+  },
+  {
+    "slug": "overseas-travel-connectivity-ranking",
+    "title": "海外旅行の通信手段、結局どれがいい？2つの選択肢を比較",
+    "description": "海外旅行の通信準備で迷いがちな、eSIMとレンタルSIMという2つの選択肢を、それぞれの特徴からランキング形式で比較します。",
+    "date": "2026-07-20",
+    "category": "ranking",
+    "categoryLabel": "比較・ランキング",
+    "tags": [
+      "海外旅行",
+      "eSIM",
+      "レンタルSIM",
+      "通信"
+    ],
+    "htmlFile": "posts/overseas-travel-connectivity-ranking.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/overseas-travel-connectivity-ranking"
+  },
+  {
+    "slug": "relet-japan-pc-collection-guide",
+    "title": "使わなくなったパソコン、捨てられずに眠っていませんか？国認定の無料回収サービス",
+    "description": "壊れた・古いパソコンの処分方法に迷っていませんか。国から認定を受けたリネットジャパンの無料回収の仕組みと申し込み方法を紹介します。",
+    "date": "2026-07-20",
+    "category": "lifehack",
+    "categoryLabel": "生活便利グッズ",
+    "tags": [
+      "リネットジャパン",
+      "パソコン回収",
+      "小型家電リサイクル",
+      "不用品処分"
+    ],
+    "htmlFile": "posts/relet-japan-pc-collection-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/relet-japan-pc-collection-guide"
+  },
+  {
+    "slug": "dubbing-copy-revolution-guide",
+    "title": "実家の押し入れに眠るビデオテープ、見返せますか？国内最大級のダビングサービス",
+    "description": "VHSなどのビデオテープをデジタル化したいけれど再生機器がない、という悩みを解決するダビングコピー革命の仕組みと使い方を紹介します。",
+    "date": "2026-07-21",
+    "category": "howto",
+    "categoryLabel": "使い方",
+    "tags": [
+      "ダビングコピー革命",
+      "ビデオテープ",
+      "データ化",
+      "思い出整理"
+    ],
+    "htmlFile": "posts/dubbing-copy-revolution-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/dubbing-copy-revolution-guide"
+  },
+  {
+    "slug": "flexispot-standing-desk-review",
+    "title": "FlexiSpotの電動昇降デスク、1ヶ月使って生活は変わったか",
+    "description": "在宅ワークの座りっぱなし対策として電動昇降デスクFlexiSpotを導入し、1ヶ月使ってみて感じた変化と気になった点をレビューします。",
+    "date": "2026-07-21",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "FlexiSpot",
+      "スタンディングデスク",
+      "在宅ワーク",
+      "レビュー"
+    ],
+    "htmlFile": "posts/flexispot-standing-desk-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/flexispot-standing-desk-review"
+  },
+  {
+    "slug": "life-hassle-solving-services-ranking",
+    "title": "「そのうちやろう」を先延ばしにしていた生活の困りごと、解決サービスまとめ",
+    "description": "パソコンの処分、古いビデオテープ、冷凍庫のスペース不足など、後回しにしがちな生活の困りごとを解決してくれるサービスをまとめて紹介します。",
+    "date": "2026-07-21",
+    "category": "ranking",
+    "categoryLabel": "比較・ランキング",
+    "tags": [
+      "生活の困りごと",
+      "不用品処分",
+      "生活便利サービス"
+    ],
+    "htmlFile": "posts/life-hassle-solving-services-ranking.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/life-hassle-solving-services-ranking"
+  },
+  {
+    "slug": "chatgpt-blog-writing-guide",
+    "title": "ブログ運営、ChatGPTをどこまで使っていいのか｜使い方の線引き",
+    "description": "個人ブログの運営にChatGPTをどう組み込むか迷っている人向けに、リサーチ・構成づくり・執筆それぞれの工程での活用の仕方と注意点を紹介します。",
+    "date": "2026-07-22",
+    "category": "ai",
+    "categoryLabel": "AI",
+    "tags": [
+      "ChatGPT",
+      "ブログ運営",
+      "AI",
+      "副業"
+    ],
+    "htmlFile": "posts/chatgpt-blog-writing-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/chatgpt-blog-writing-guide"
+  },
+  {
+    "slug": "pixio-gaming-monitor-review",
+    "title": "Pixioのカラフルモニター、黒い機材だらけのデスクに置いてみた",
+    "description": "白やベージュなどカラフルなモデルが人気のゲーミングモニターPixioを実際に使ってみた発色・応答速度の体感レビューです。",
+    "date": "2026-07-22",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "Pixio",
+      "ゲーミングモニター",
+      "レビュー",
+      "ゲーミング環境"
+    ],
+    "htmlFile": "posts/pixio-gaming-monitor-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/pixio-gaming-monitor-review"
+  },
+  {
+    "slug": "very-card-telegram-guide",
+    "title": "お祝いの電報、テンプレ感が出ていませんか？デザイン豊富な「VERY CARD」",
+    "description": "結婚式や開店祝いの電報選び、定型文と地味なデザインで迷っていませんか。豊富なデザインが選べる電報サービスVERY CARDの特徴を紹介します。",
+    "date": "2026-07-22",
+    "category": "lifehack",
+    "categoryLabel": "生活便利グッズ",
+    "tags": [
+      "VERY CARD",
+      "電報",
+      "お祝い",
+      "慶弔"
+    ],
+    "htmlFile": "posts/very-card-telegram-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/very-card-telegram-guide"
+  },
+  {
+    "slug": "instabase-party-room-guide",
+    "title": "パーティールーム探し、電話予約でたらい回しにされていませんか？【インスタベース】でWeb完結",
+    "description": "パーティールームやレンタルスペースの会場探し・予約に手間取っていませんか。Web上で検索から予約まで完結するインスタベースの使い方を紹介します。",
+    "date": "2026-07-23",
+    "category": "webservice",
+    "categoryLabel": "Webサービス",
+    "tags": [
+      "インスタベース",
+      "レンタルスペース",
+      "パーティールーム",
+      "会場予約"
+    ],
+    "htmlFile": "posts/instabase-party-room-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/instabase-party-room-guide"
+  },
+  {
+    "slug": "saily-esim-overseas-travel-guide",
+    "title": "海外旅行の通信、どうしてる？eSIM「Saily」で空港Wi-Fi探しから解放される",
+    "description": "海外旅行のたびにポケットWiFiやSIMカードの準備に悩んでいませんか。アプリだけで完結するeSIM「Saily」の仕組みと使い方を紹介します。",
+    "date": "2026-07-23",
+    "category": "webservice",
+    "categoryLabel": "Webサービス",
+    "tags": [
+      "Saily",
+      "eSIM",
+      "海外旅行",
+      "海外Wi-Fi"
+    ],
+    "htmlFile": "posts/saily-esim-overseas-travel-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/saily-esim-overseas-travel-guide"
+  },
+  {
+    "slug": "starting-online-business-tools-ranking",
+    "title": "個人でブログ・ネットショップを始めるなら揃えたい3つのツール",
+    "description": "これから個人でブログや副業を始めたい人向けに、レンタルサーバー・独自ドメイン・バーチャルオフィスという3つの基本ツールをランキング形式で紹介します。",
+    "date": "2026-07-23",
+    "category": "ranking",
+    "categoryLabel": "比較・ランキング",
+    "tags": [
+      "ブログ運営",
+      "副業",
+      "個人事業",
+      "webサービス"
+    ],
+    "htmlFile": "posts/starting-online-business-tools-ranking.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/starting-online-business-tools-ranking"
+  },
+  {
+    "slug": "premium-charge-wifi-guide",
+    "title": "月額契約なしで持てるポケットWiFi、あるって知っていますか？【プレミアムチャージWiFi】",
+    "description": "毎月の通信費や2年縛りの契約に疲れていませんか。買い切り型で必要な分だけチャージして使えるポケットWiFi「プレミアムチャージWiFi」の仕組みを紹介します。",
+    "date": "2026-07-24",
+    "category": "webservice",
+    "categoryLabel": "Webサービス",
+    "tags": [
+      "プレミアムチャージWiFi",
+      "ポケットWiFi",
+      "モバイルWiFi",
+      "買い切り"
+    ],
+    "htmlFile": "posts/premium-charge-wifi-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/premium-charge-wifi-guide"
+  },
+  {
+    "slug": "reveria-recovery-mattress-guide",
+    "title": "朝起きても体がだるいのは寝具のせいかもしれない｜医療機器認証マットレス「REVERIA」",
+    "description": "寝ても疲れが取れない、朝から肩や腰がこっている——そんな悩みの背景にある寝具の影響を解説しながら、日本初の医療機器認証を受けたリカバリーマットレス「REVERIA」を紹介します。",
+    "date": "2026-07-24",
+    "category": "lifehack",
+    "categoryLabel": "生活便利グッズ",
+    "tags": [
+      "REVERIA",
+      "マットレス",
+      "睡眠",
+      "疲労回復"
+    ],
+    "htmlFile": "posts/reveria-recovery-mattress-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/reveria-recovery-mattress-guide"
+  },
+  {
+    "slug": "mobile-battery-23600mah-guide",
+    "title": "モバイルバッテリー23600mAhレビュー｜PD22.5W急速充電の速度と重さを実測",
+    "description": "23600mAh・PD22.5W対応の大容量モバイルバッテリーを実際に使用したレビューです。充電スピードの体感、ケーブル内蔵の使い勝手、気になった重さまで正直にまとめました。",
+    "date": "2026-07-26",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "モバイルバッテリー",
+      "ガジェット",
+      "防災グッズ",
+      "在宅ワーク",
+      "レビュー"
+    ],
+    "htmlFile": "posts/mobile-battery-23600mah-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/mobile-battery-23600mah-guide"
+  },
+  {
+    "slug": "omron-activity-tracker-hja331t-guide",
+    "title": "オムロン活動量計HJA-331T-JWレビュー｜仕事中も持ち歩けるコンパクトさを実際に検証",
+    "description": "スマートウォッチや携帯を持ち歩けない仕事中でも使えるオムロンの活動量計HJA-331T-JWを実際に使用したレビューです。歩数カウントの仕組みや高齢者への不向きな点も含めて紹介します。",
+    "date": "2026-07-26",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "活動量計",
+      "オムロン",
+      "ウェアラブル",
+      "在宅ワーク",
+      "レビュー"
+    ],
+    "htmlFile": "posts/omron-activity-tracker-hja331t-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/omron-activity-tracker-hja331t-guide"
+  },
+  {
+    "slug": "folding-bluetooth-keyboard-comparison",
+    "title": "折りたたみBluetoothキーボード3機種比較｜携帯性・打鍵感・テンキーの違いを実際に使って検証",
+    "description": "Ewin・サンワダイレクト・Omikamoの折りたたみBluetoothキーボード3機種を実際に使って比較しました。携帯性、打鍵感、キー配列のクセ、テンキーの有無から選び方を整理します。",
+    "date": "2026-07-27",
+    "category": "ranking",
+    "categoryLabel": "比較・ランキング",
+    "tags": [
+      "折りたたみキーボード",
+      "Bluetoothキーボード",
+      "ガジェット",
+      "比較",
+      "在宅ワーク"
+    ],
+    "htmlFile": "posts/folding-bluetooth-keyboard-comparison.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/folding-bluetooth-keyboard-comparison"
+  },
+  {
+    "slug": "monitor-arm-install-guide",
+    "title": "モニターアームの取り付け方｜グリーンハウスGH-AMDX1で手順とつまずきやすい点を解説",
+    "description": "グリーンハウスのモニターアームGH-AMDX1を例に、取り付け手順と実際に使ってみて感じた調整のコツ・つまずきやすいポイントをまとめました。",
+    "date": "2026-07-27",
+    "category": "howto",
+    "categoryLabel": "使い方",
+    "tags": [
+      "モニターアーム",
+      "在宅ワーク",
+      "デスク周り",
+      "取り付け方"
+    ],
+    "htmlFile": "posts/monitor-arm-install-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/monitor-arm-install-guide"
+  },
+  {
+    "slug": "notebook-cooling-pad-assa7-review",
+    "title": "ノートPC冷却パッドASSA-7レビュー｜貼るだけで発熱は抑えられるか実際に検証",
+    "description": "サンワサプライの貼るだけ冷却パッドASSA-7を実際にノートPCで使ってみたレビューです。効果の実感と、過度な期待をしない方がいい理由をまとめました。",
+    "date": "2026-07-27",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "ノートPC冷却パッド",
+      "発熱対策",
+      "夏",
+      "ガジェット",
+      "サンワサプライ"
+    ],
+    "htmlFile": "posts/notebook-cooling-pad-assa7-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/notebook-cooling-pad-assa7-review"
+  },
+  {
+    "slug": "notebook-cooling-pad-vs-fan-comparison",
+    "title": "ノートPC冷却グッズ比較｜貼るタイプと送風ファンタイプ、結局どっちがいい？",
+    "description": "貼るだけの冷却パッドASSA-7と、送風ファン式の冷却スタンド400-CLN031を実際に使って比較しました。静音性・冷却効果・使い勝手から選び方を整理します。",
+    "date": "2026-07-27",
+    "category": "ranking",
+    "categoryLabel": "比較・ランキング",
+    "tags": [
+      "ノートPC冷却",
+      "発熱対策",
+      "夏",
+      "ガジェット",
+      "在宅ワーク"
+    ],
+    "htmlFile": "posts/notebook-cooling-pad-vs-fan-comparison.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/notebook-cooling-pad-vs-fan-comparison"
+  },
+  {
+    "slug": "switchbot-smart-plug-review",
+    "title": "SwitchBotプラグミニレビュー｜電気毛布の自動タイマーで夜中に起きなくなった話",
+    "description": "SwitchBotのスマートプラグ「プラグミニ」を実際に使ったレビューです。電気毛布の自動オンオフ、消費電力の確認、Alexa連携まで実用性を検証しました。",
+    "date": "2026-07-27",
+    "category": "lifehack",
+    "categoryLabel": "生活便利グッズ",
+    "tags": [
+      "スマートプラグ",
+      "SwitchBot",
+      "スマートホーム",
+      "IoT",
+      "在宅"
+    ],
+    "htmlFile": "posts/switchbot-smart-plug-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/switchbot-smart-plug-review"
+  },
+  {
+    "slug": "gps-lost-item-tracker-review",
+    "title": "紛失防止タグGPSレビュー｜Apple認証・月額不要モデルの精度を実際に検証",
+    "description": "月額不要・Apple認証のGPS紛失防止タグを実際に使ったレビューです。子どもの見守りや鍵・バッグへの装着で、位置更新の精度がどこまで実用的か検証しました。",
+    "date": "2026-07-28",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "紛失防止タグ",
+      "GPS",
+      "見守り",
+      "ガジェット"
+    ],
+    "htmlFile": "posts/gps-lost-item-tracker-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/gps-lost-item-tracker-review"
+  },
+  {
+    "slug": "3in1-wireless-charger-review",
+    "title": "3in1ワイヤレス充電器レビュー｜iPhone・Apple Watch・AirPodsをまとめて置くだけ充電",
+    "description": "iPhone・Apple Watch・AirPodsをまとめて充電できる3in1ワイヤレス充電スタンドを実際に使ったレビューです。便利さと、アダプター相性など気になった点をまとめました。",
+    "date": "2026-07-29",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "ワイヤレス充電器",
+      "Qi",
+      "デスク周り",
+      "レビュー"
+    ],
+    "htmlFile": "posts/3in1-wireless-charger-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/3in1-wireless-charger-review"
+  },
+  {
+    "slug": "fc-compatible-console-review",
+    "title": "ファミコン互換機レビュー｜118種内蔵・手持ちカセットは何割動く？実際に検証",
+    "description": "118種のゲームを内蔵したファミコン互換機を実際に使ったレビューです。手持ちカセットの動作率、テレビ接続の注意点、非対応ソフトまで正直にまとめました。",
+    "date": "2026-07-29",
+    "category": "game",
+    "categoryLabel": "ゲーム",
+    "tags": [
+      "レトロゲーム",
+      "ファミコン互換機",
+      "ゲーム機",
+      "レビュー"
+    ],
+    "htmlFile": "posts/fc-compatible-console-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/fc-compatible-console-review"
+  },
+  {
+    "slug": "iphone-case-comparison",
+    "title": "iPhoneケース比較｜覗き見防止フルカバー vs 滑りにくい耐衝撃タイプを実際に使って検証",
+    "description": "iPhoneのフルカバーガラスケース（覗き見防止）と、滑りにくい耐衝撃タイプのケースを実際に使って比較しました。保護性能・操作性・使い勝手の違いを整理します。",
+    "date": "2026-07-29",
+    "category": "ranking",
+    "categoryLabel": "比較・ランキング",
+    "tags": [
+      "iPhoneケース",
+      "スマホケース",
+      "ガジェット",
+      "比較"
+    ],
+    "htmlFile": "posts/iphone-case-comparison.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/iphone-case-comparison"
+  },
+  {
+    "slug": "neck-fan-cooling-plate-reviews",
+    "title": "ネッククーラー（首掛け扇風機）レビュー｜風量と軽さは満足、フィット感と冷却プレートは？",
+    "description": "冷却プレート付きの首掛け扇風機を実際に使ったレビューです。風量・軽さの満足度と、フィット感・冷却機能の物足りなさを正直にまとめました。",
+    "date": "2026-07-29",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "ネッククーラー",
+      "首掛け扇風機",
+      "夏",
+      "暑さ対策",
+      "レビュー"
+    ],
+    "htmlFile": "posts/neck-fan-cooling-plate-reviews.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/neck-fan-cooling-plate-reviews"
+  },
+  {
+    "slug": "switchbot-ai-art-canvas-review",
+    "title": "SwitchBot AIアートキャンバスレビュー｜E Ink Spectra 6で「本物の絵」に見えるか検証",
+    "description": "SwitchBotのE Ink電子ペーパー搭載アートフレームを実際に使ったレビューです。AI生成画像を飾る用途での発色・質感と、フォトフレームとしての限界を正直にまとめました。",
+    "date": "2026-07-29",
+    "category": "ai",
+    "categoryLabel": "AI",
+    "tags": [
+      "E Ink",
+      "デジタルアートフレーム",
+      "SwitchBot",
+      "インテリア",
+      "AI生成画像"
+    ],
+    "htmlFile": "posts/switchbot-ai-art-canvas-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/switchbot-ai-art-canvas-review"
+  },
+  {
+    "slug": "usb-desk-light-setup-guide",
+    "title": "デスクライトの正しい置き方・選び方｜USBクリップライトを実際に使って検証",
+    "description": "在宅ワークの手元を照らすUSBデスクライトの選び方と、画面への映り込みを避ける置き方を解説します。実際に使ったUSB LEDデスクライトのレビューも紹介します。",
+    "date": "2026-07-29",
+    "category": "howto",
+    "categoryLabel": "使い方",
+    "tags": [
+      "デスクライト",
+      "在宅ワーク",
+      "デスク周り",
+      "USBライト"
+    ],
+    "htmlFile": "posts/usb-desk-light-setup-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/usb-desk-light-setup-guide"
+  },
+  {
+    "slug": "apple-pencil-nib-replacement-guide",
+    "title": "Apple Pencil互換ペン先の交換方法＆レビュー｜純正との描き心地の違いを検証",
+    "description": "Apple Pencil用の互換ペン先を実際に使ったレビューと交換方法です。純正との描き心地の違い、ペーパーライクフィルムとの相性を正直にまとめました。",
+    "date": "2026-07-31",
+    "category": "howto",
+    "categoryLabel": "使い方",
+    "tags": [
+      "Apple Pencil",
+      "iPad",
+      "イラスト",
+      "ペン先交換"
+    ],
+    "htmlFile": "posts/apple-pencil-nib-replacement-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/apple-pencil-nib-replacement-guide"
+  },
+  {
+    "slug": "mechanical-keyboard-blue-switch-review",
+    "title": "青軸メカニカルキーボードレビュー｜丸キーキャップ×英語配列は実際どう？",
+    "description": "丸キーキャップが可愛い青軸メカニカルキーボードを実際に使ったレビューです。打鍵音・打鍵感の満足度と、英語配列に慣れるまでの戸惑いを正直にまとめました。",
+    "date": "2026-07-31",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "メカニカルキーボード",
+      "青軸",
+      "英語配列",
+      "在宅ワーク",
+      "レビュー"
+    ],
+    "htmlFile": "posts/mechanical-keyboard-blue-switch-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/mechanical-keyboard-blue-switch-review"
+  },
+  {
+    "slug": "emergency-radio-review",
+    "title": "防災ラジオレビュー｜ソーラー・手回し発電・モバイルバッテリー機能を実際に検証",
+    "description": "ラジオ・LEDライト・モバイルバッテリー・手回し・ソーラー充電を1台に詰め込んだ防災ラジオを実際に使ったレビューです。発電まわりの実力を正直に検証しました。",
+    "date": "2026-08-01",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "防災グッズ",
+      "防災ラジオ",
+      "モバイルバッテリー",
+      "レビュー"
+    ],
+    "htmlFile": "posts/emergency-radio-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/emergency-radio-review"
+  },
+  {
+    "slug": "portable-monitor-review",
+    "title": "モバイルモニターレビュー｜Type-C1本でデュアル環境は本当に作れる？",
+    "description": "15.6インチのモバイルモニターを実際に使ったレビューです。Type-Cケーブル1本での設置の手軽さと、画質・接続まわりで気になった点を正直にまとめました。",
+    "date": "2026-08-01",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "モバイルモニター",
+      "デュアルディスプレイ",
+      "在宅ワーク",
+      "デスク環境",
+      "レビュー"
+    ],
+    "htmlFile": "posts/portable-monitor-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/portable-monitor-review"
+  },
+  {
+    "slug": "echo-show-5-review",
+    "title": "Echo Show 5レビュー｜声だけで生活がラクになるか実際に検証",
+    "description": "Amazon Echo Show 5（Alexa搭載スマートディスプレイ）を実際に使ったレビューです。音声操作の便利さと、セットアップの手間・反応速度など気になった点をまとめました。",
+    "date": "2026-08-03",
+    "category": "ai",
+    "categoryLabel": "AI",
+    "tags": [
+      "Echo Show",
+      "Alexa",
+      "スマートディスプレイ",
+      "スマートホーム"
+    ],
+    "htmlFile": "posts/echo-show-5-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/echo-show-5-review"
+  },
+  {
+    "slug": "htc-vive-face-cushion-replacement-guide",
+    "title": "HTC Viveフェイスクッション交換レビュー｜PUレザー製で快適性はどう変わる？",
+    "description": "HTC Vive用の交換フェイスクッション（PUレザー製）を実際に使ったレビューと交換方法です。純正スポンジとの質感の違い、光漏れの改善度を検証しました。",
+    "date": "2026-08-03",
+    "category": "howto",
+    "categoryLabel": "使い方",
+    "tags": [
+      "HTC Vive",
+      "VR",
+      "フェイスクッション",
+      "交換パーツ"
+    ],
+    "htmlFile": "posts/htc-vive-face-cushion-replacement-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/htc-vive-face-cushion-replacement-guide"
+  },
+  {
+    "slug": "fire-tv-stick-review",
+    "title": "Fire TV Stickレビュー｜古いテレビでも配信サービスをまとめて見られるか検証",
+    "description": "Amazon Fire TV Stickを実際に使ったレビューです。古いテレビでの動作、複数の配信サービスをまとめて見られる便利さ、気になった点を正直にまとめました。",
+    "date": "2026-08-04",
+    "category": "ai",
+    "categoryLabel": "AI",
+    "tags": [
+      "Fire TV Stick",
+      "Alexa",
+      "スマートテレビ化",
+      "配信サービス"
+    ],
+    "htmlFile": "posts/fire-tv-stick-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/fire-tv-stick-review"
+  },
+  {
+    "slug": "portable-power-station-review",
+    "title": "ポータブル電源500Whレビュー｜防災・車中泊での備えとしての実力を検証",
+    "description": "500Whクラスのポータブル電源を実際に使ったレビューです。防災用としての安心感、デザイン性、単体運用での不安点まで正直にまとめました。",
+    "date": "2026-08-05",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "ポータブル電源",
+      "防災グッズ",
+      "車中泊",
+      "レビュー"
+    ],
+    "htmlFile": "posts/portable-power-station-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/portable-power-station-review"
+  },
+  {
+    "slug": "bruno-led-lantern-review",
+    "title": "BRUNO LEDランタンレビュー｜防災用に買ったら普段使いでも大活躍だった",
+    "description": "BRUNOのLEDランタンを実際に使ったレビューです。無段階調光の使いやすさ、色味の実物イメージ、電池式ならではの気になる点を正直にまとめました。",
+    "date": "2026-08-06",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "LEDランタン",
+      "防災グッズ",
+      "BRUNO",
+      "アウトドア",
+      "レビュー"
+    ],
+    "htmlFile": "posts/bruno-led-lantern-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/bruno-led-lantern-review"
+  },
+  {
+    "slug": "jackery-solarsaga-100-review",
+    "title": "Jackeryソーラーパネル100Wレビュー｜ポータブル電源との組み合わせを実際に検証",
+    "description": "Jackery SolarSaga 100を実際に使ったレビューです。晴天時と曇天時の発電量の違い、角度調整のしやすさ、気になった点を正直にまとめました。",
+    "date": "2026-08-06",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "ソーラーパネル",
+      "Jackery",
+      "ポータブル電源",
+      "防災グッズ",
+      "レビュー"
+    ],
+    "htmlFile": "posts/jackery-solarsaga-100-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/jackery-solarsaga-100-review"
+  },
+  {
+    "slug": "disaster-prep-47-piece-set-review",
+    "title": "防災セット47点レビュー｜シュラフ付きで足りないものは何？実際に検証",
+    "description": "47点入りの防災セット（シュラフ・エアーベッド付き）を実際に使ったレビューです。中身の充実度と、別途買い足した方がいいものを正直にまとめました。",
+    "date": "2026-08-07",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "防災セット",
+      "防災リュック",
+      "非常用持ち出し袋",
+      "防災グッズ",
+      "レビュー"
+    ],
+    "htmlFile": "posts/disaster-prep-47-piece-set-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/disaster-prep-47-piece-set-review"
+  },
+  {
+    "slug": "7in1-cleaning-tool-review",
+    "title": "キーボード・イヤホンの掃除グッズ｜7in1クリーニングツールを実際に使ってみた",
+    "description": "キーボードの隙間やAirPodsの溝の汚れが気になる人向けに、7in1クリーニングツールを実際に使ったレビューです。使い勝手と気になった点を正直にまとめました。",
+    "date": "2026-08-10",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "クリーニングツール",
+      "キーボード掃除",
+      "イヤホン掃除",
+      "PC周辺機器",
+      "レビュー"
+    ],
+    "htmlFile": "posts/7in1-cleaning-tool-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/7in1-cleaning-tool-review"
+  },
+  {
+    "slug": "gadget-pouch-cable-organizer-guide",
+    "title": "ケーブル・充電器がバッグの中でごちゃつく人へ｜ガジェットポーチで整理する",
+    "description": "モバイルバッテリーや充電ケーブル、マウスなどの小物がバッグの中で絡まる人向けに、ガジェットポーチで整理するメリットをまとめました。",
+    "date": "2026-08-11",
+    "category": "lifehack",
+    "categoryLabel": "生活便利グッズ",
+    "tags": [
+      "ガジェットポーチ",
+      "ケーブル収納",
+      "PC周辺機器",
+      "持ち運び"
+    ],
+    "htmlFile": "posts/gadget-pouch-cable-organizer-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/gadget-pouch-cable-organizer-guide"
+  },
+  {
+    "slug": "gaming-mouse-sole-replacement-guide",
+    "title": "マウスの滑りが悪くなったら｜ソール（マウスフィート）交換のやり方とタイミング",
+    "description": "ゲーミングマウスの滑りが悪くなったと感じたら疑いたい「ソール（マウスフィート）」の摩耗について、交換のタイミングとやり方をまとめました。",
+    "date": "2026-08-11",
+    "category": "howto",
+    "categoryLabel": "使い方",
+    "tags": [
+      "ゲーミングマウス",
+      "マウスソール",
+      "マウスフィート",
+      "PC周辺機器",
+      "メンテナンス"
+    ],
+    "htmlFile": "posts/gaming-mouse-sole-replacement-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/gaming-mouse-sole-replacement-guide"
+  },
+  {
+    "slug": "sitelock-website-security-guide",
+    "title": "自分のサイトが改ざん・マルウェア感染していないか不安な人へ｜SiteLockでできること",
+    "description": "ブログやネットショップを運営していて、サイトの改ざん・マルウェア感染が不安な人向けに、SiteLockのセキュリティ診断・駆除サービスでできることをまとめました。",
+    "date": "2026-08-11",
+    "category": "webservice",
+    "categoryLabel": "Webサービス",
+    "tags": [
+      "Webサイトセキュリティ",
+      "SiteLock",
+      "マルウェア対策",
+      "ブログ運営",
+      "ネットショップ"
+    ],
+    "htmlFile": "posts/sitelock-website-security-guide.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/sitelock-website-security-guide"
+  },
+  {
+    "slug": "gas-lift-standing-desk-review",
+    "title": "座りっぱなしで腰痛が気になる人へ｜ガス圧式の昇降デスクを実際に使ってみた",
+    "description": "在宅ワークの座りっぱなし対策に、ガス圧式のコンパクト昇降デスクを実際に使ったレビューです。手動昇降の使い勝手と、電動タイプとの違いを正直にまとめました。",
+    "date": "2026-08-17",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "昇降デスク",
+      "スタンディングデスク",
+      "在宅ワーク",
+      "腰痛対策",
+      "レビュー"
+    ],
+    "htmlFile": "posts/gas-lift-standing-desk-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/gas-lift-standing-desk-review"
+  },
+  {
+    "slug": "jintan-throat-candy-review",
+    "title": "強い清涼感が欲しい人へ｜森下仁丹「鼻・のど甜茶飴」を実際に食べてみた",
+    "description": "森下仁丹の「鼻・のど甜茶飴」を実際に食べたレビューです。強めのメントール刺激とシュガーレスの後味、乾燥する季節の使い方を正直にまとめました。",
+    "date": "2026-08-17",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "のど飴",
+      "森下仁丹",
+      "乾燥対策",
+      "メントール",
+      "レビュー"
+    ],
+    "htmlFile": "posts/jintan-throat-candy-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/jintan-throat-candy-review"
+  },
+  {
+    "slug": "desktop-usb-humidifier-review",
+    "title": "デスク周りの乾燥対策に｜USB卓上加湿器を実際に使ってみた",
+    "description": "冬場の乾燥対策として、350mlのUSB卓上加湿器を実際に使ったレビューです。デスク・ベッドサイド・車内での使い勝手と、気になった点を正直にまとめました。",
+    "date": "2026-08-18",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "加湿器",
+      "卓上加湿器",
+      "乾燥対策",
+      "デスク環境",
+      "レビュー"
+    ],
+    "htmlFile": "posts/desktop-usb-humidifier-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/desktop-usb-humidifier-review"
+  },
+  {
+    "slug": "quest3-controller-grip-cover-review",
+    "title": "Quest 3のコントローラーが滑る・落としそうな人へ｜グリップカバーを実際に使ってみた",
+    "description": "Meta Quest 3 / 3S用のコントローラーグリップカバーを実際に使ったレビューです。グリップ感の変化とナックルストラップの効果、電池交換時の注意点をまとめました。",
+    "date": "2026-08-18",
+    "category": "game",
+    "categoryLabel": "ゲーム",
+    "tags": [
+      "Quest 3",
+      "VR",
+      "コントローラーグリップ",
+      "VRアクセサリー",
+      "レビュー"
+    ],
+    "htmlFile": "posts/quest3-controller-grip-cover-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/quest3-controller-grip-cover-review"
+  },
+  {
+    "slug": "transparent-desk-mat-review",
+    "title": "机の傷・汚れ対策に｜透明デスクマットを実際に使ってみた",
+    "description": "子どもの勉強机やデスク周りの傷・汚れ対策として、透明デスクマットを実際に使ったレビューです。巻きぐせの直し方やカットのコツを正直にまとめました。",
+    "date": "2026-08-18",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "デスクマット",
+      "透明マット",
+      "デスク環境",
+      "学習机",
+      "レビュー"
+    ],
+    "htmlFile": "posts/transparent-desk-mat-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/transparent-desk-mat-review"
+  },
+  {
+    "slug": "c60-smartwatch-review",
+    "title": "大きい・重いスマートウォッチが苦手な人へ｜スリム型「C60」を実際に使ってみた",
+    "description": "スリム・軽量なスマートウォッチ「C60」を実際に使ったレビューです。通知確認や歩数・睡眠管理の使い勝手と、気になった点を正直にまとめました。",
+    "date": "2026-08-19",
+    "category": "review",
+    "categoryLabel": "レビュー",
+    "tags": [
+      "スマートウォッチ",
+      "C60",
+      "健康管理",
+      "ガジェット",
+      "レビュー"
+    ],
+    "htmlFile": "posts/c60-smartwatch-review.html",
+    "canonicalUrl": "https://nexiary-phi.vercel.app/posts/c60-smartwatch-review"
+  }
+]

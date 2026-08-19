@@ -1,0 +1,37 @@
+<div class="nexiary-article prose prose-neutral max-w-none prose-headings:font-display prose-headings:text-ink prose-a:text-stamp prose-img:rounded-card"><p class="not-prose text-xs italic text-ink-soft/70">※本記事にはアフィリエイト広告を含みます。</p>
+<p>ブログのアイキャッチに使いたい写真が低解像度だった、古いデジカメの写真を大きく印刷したら画質が粗くて残念な仕上がりになった——画像を拡大するとどうしても輪郭がぼやけてしまう、という経験は多くの人にあるはずです。</p>
+<h2>なぜ画像を拡大すると粗くなるのか</h2>
+<p>デジタル画像は、色のついた点（ピクセル）の集まりでできています。従来の拡大方法は、足りないピクセルを周囲の色から単純に計算して埋める「補間」という処理が中心でした。この方法は仕組みがシンプルな分、輪郭がぼやけたり、輪郭部分がギザギザに見えたりしやすいという弱点があります。</p>
+<figure class="not-prose catalog-card my-8 p-5"><svg viewBox="0 0 300 120" class="w-full" role="img" aria-label="従来の拡大とAI超解像の仕上がりの違いを示す図"><text x="15" y="18" class="font-mono" font-size="9" fill="#4A5170">従来の拡大（補間）</text><rect x="20" y="26" width="18" height="18" fill="#B4472B" opacity="0.3"></rect><rect x="42" y="26" width="18" height="18" fill="#B4472B" opacity="0.5"></rect><rect x="64" y="26" width="18" height="18" fill="#B4472B" opacity="0.7"></rect><rect x="20" y="48" width="18" height="18" fill="#B4472B" opacity="0.3"></rect><rect x="42" y="48" width="18" height="18" fill="#B4472B" opacity="0.5"></rect><rect x="64" y="48" width="18" height="18" fill="#B4472B" opacity="0.7"></rect><text x="20" y="90" class="font-body" font-size="10" fill="#B4472B">→ 輪郭がぼやける</text><line x1="150" y1="10" x2="150" y2="100" stroke="#D8D3C4" stroke-width="1"></line><text x="170" y="18" class="font-mono" font-size="9" fill="#4A5170">AI超解像</text><path d="M170 30 Q185 26 200 32 T230 30" fill="none" stroke="#356156" stroke-width="2.5"></path><path d="M170 50 Q185 46 200 52 T230 50" fill="none" stroke="#356156" stroke-width="2.5"></path><path d="M170 70 Q185 66 200 72 T230 70" fill="none" stroke="#356156" stroke-width="2.5"></path><text x="170" y="95" class="font-body" font-size="10" fill="#356156">→ 輪郭を推測して補完</text></svg><figcaption class="mt-2 text-center font-mono text-[11px] text-ink-soft">AIが周辺のピクセルから元の模様を推測しながら描き足すことで、拡大しても輪郭が破綻しにくい</figcaption></figure>
+<p>一方、近年広がっているAIによる超解像技術は、単純な補間ではなく、大量の画像から学習したパターンをもとに「本来どんな模様だったか」を推測しながらピクセルを描き足す仕組みです。輪郭や質感を推測して再構築するため、従来の拡大方法よりも自然な仕上がりになりやすいとされています。</p>
+<h2>Aiarty Image Enhancerという選択肢</h2>
+<p>「Aiarty Image Enhancer」は、成都Digiarty Software社が開発する画像高画質化ソフトです。ぼかし補正・ノイズ除去・ロスレス拡大・顔のレタッチ・色補正などをワンクリックで行えるのが特徴で、処理はローカルのPC上で完結するため、画像データを外部サーバーにアップロードせずに済みます。</p>
+<div class="not-prose my-8 flex justify-center"><a href="https://px.a8.net/svt/ejp?a8mat=4B81T5+DZ3AYA+428G+HVV0H" rel="nofollow"><img border="0" width="300" height="250" alt="Aiarty Image Enhancer 画像高画質化AIツール" src="https://www25.a8.net/svt/bgt?aid=260716073845&amp;wid=001&amp;eno=01&amp;mid=s00000018952003004000&amp;mc=1"/></a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B81T5+DZ3AYA+428G+HVV0H" alt=""/></div>
+<p>用途に応じて複数のAIモデルを使い分けられるのも特徴です。人物・風景・イラストなど幅広い被写体に対応するモデルのほか、AIが生成した画像特有のノイズを整えるモデル、撮影時のピンボケやノイズを補正するモデルなど、画像の種類ごとに最適化された処理を選べます。低解像度の画像であれば、最大8倍程度まで画質を保ったまま拡大することも可能とされています。</p>
+<div class="not-prose catalog-card my-8 p-5"><p class="font-display text-base text-ink">拡大倍率の目安</p><div class="mt-5 flex flex-col gap-4"><div><div class="mb-1 flex items-baseline justify-between"><span class="font-body text-sm text-ink">従来の単純拡大で粗さが目立ちやすい倍率</span><span class="font-mono text-xs text-ink-soft">2倍</span></div><div class="h-2.5 w-full overflow-hidden rounded-full bg-line/50"><div class="h-full rounded-full bg-moss" style="width:25%"></div></div></div><div><div class="mb-1 flex items-baseline justify-between"><span class="font-body text-sm text-ink">Aiarty Image Enhancerが対応する倍率の目安</span><span class="font-mono text-xs text-ink-soft">8倍</span></div><div class="h-2.5 w-full overflow-hidden rounded-full bg-line/50"><div class="h-full rounded-full bg-stamp" style="width:100%"></div></div></div></div><p class="mt-4 font-mono text-[11px] text-ink-soft/70">※実際の仕上がりは元画像の状態やPCのスペックによって変わります。</p></div>
+<h2>気になる点</h2>
+<ul>
+<li>高解像度への拡大や大量の一括処理には、それなりのPCスペック（GPU推奨）が必要で、非力なPCでは処理に時間がかかる</li>
+<li>極端にピントが外れた画像や、被写体が小さすぎて潰れている画像は、AIでも復元しきれないことがある</li>
+<li>無料プランは処理枚数や書き出しに制限があり、本格的に使うには有料プランの検討が必要</li>
+</ul>
+<p>「なんでも綺麗になる魔法のツール」ではなく、あくまで元画像にある情報を推測して補う技術なので、過度な期待は禁物です。</p>
+<h2>従来の画像編集ソフトとの違い</h2>
+<div class="not-prose my-8 grid gap-4 sm:grid-cols-2"><div class="catalog-card p-5 "><p class="font-display text-base text-ink">従来の画像編集ソフト</p><ul class="mt-3 flex flex-col gap-2"><li class="flex gap-2 font-body text-sm text-ink-soft"><span class="text-moss">・</span>拡大は補間処理が中心</li><li class="flex gap-2 font-body text-sm text-ink-soft"><span class="text-moss">・</span>ノイズ除去やシャープ化は手動調整が必要</li><li class="flex gap-2 font-body text-sm text-ink-soft"><span class="text-moss">・</span>操作に一定の知識が必要</li></ul></div><div class="catalog-card p-5 border-stamp/60"><p class="font-display text-base text-ink">Aiarty Image Enhancer</p><ul class="mt-3 flex flex-col gap-2"><li class="flex gap-2 font-body text-sm text-ink-soft"><span class="text-moss">・</span>AIが輪郭・質感を推測して補完</li><li class="flex gap-2 font-body text-sm text-ink-soft"><span class="text-moss">・</span>ノイズ除去・拡大をワンクリックで処理</li><li class="flex gap-2 font-body text-sm text-ink-soft"><span class="text-moss">・</span>処理はローカルPC上で完結</li></ul></div></div>
+<h2>こんな人におすすめ</h2>
+<ul>
+<li>ブログやSNS用に、低解像度の画像を大きく使いたい人</li>
+<li>古い写真をきれいな状態で残しておきたい人</li>
+<li>AIで生成したイラストの粗さが気になっている人</li>
+</ul>
+<h2>まとめ</h2>
+<p>画像の粗さは「解像度が足りないから仕方ない」と諦めがちですが、AIによる高画質化技術を使えば、ある程度まで補うことができます。</p>
+<p>補間による拡大とAI超解像の違いは、地図で例えるなら「空白部分を均等に塗りつぶす」のと「周辺の地形から推測して描き足す」くらいの差があります。印刷用の画像や思い出の写真など、ここぞという場面で試してみる価値があります。</p>
+<h3>参考資料</h3>
+<ul>
+<li>Aiarty Image Enhancer公式サイト（Chengdu Digiarty Software, Inc.）</li>
+<li>画像超解像技術に関する一般的な技術解説</li>
+</ul>
+<div class="not-prose my-8 flex justify-center"><a href="https://px.a8.net/svt/ejp?a8mat=4B81T5+DZ3AYA+428G+HVV0H" rel="nofollow"><img border="0" width="300" height="250" alt="Aiarty Image Enhancer 画像高画質化AIツール" src="https://www25.a8.net/svt/bgt?aid=260716073845&amp;wid=001&amp;eno=01&amp;mid=s00000018952003004000&amp;mc=1"/></a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B81T5+DZ3AYA+428G+HVV0H" alt="Aiarty Image Enhancer 画像高画質化AIツール"/></div></div>
+
+<p class="hatena-canonical-note" style="margin-top:2em;font-size:12px;color:#888;">この記事は <a href="https://nexiary-phi.vercel.app/posts/aiarty-image-enhancer-guide" target="_blank" rel="noopener">Nexiary</a> に掲載した記事の転載です。</p>
